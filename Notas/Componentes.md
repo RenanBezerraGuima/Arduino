@@ -1,4 +1,4 @@
-# [LED](https://pt.wikipedia.org/wiki/Diodo_emissor_de_luz)
+# [[LED]]
 # [[Resistor]]
 # [Chave Momentânea (Botão)](https://en.wikipedia.org/wiki/Push-button)
 # Buzzer
