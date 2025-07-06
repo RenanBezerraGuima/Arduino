@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "b2a53eaac86a93d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3c24f616e93ff56",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b726ee860746d9e9",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Notas/Imagens/Pasted image 20250706092929.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250706092929"
+            }
+          },
+          {
+            "id": "5cfd8b2e0702713f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notas/Placa Arduino.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Placa Arduino"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b882c113c63d7c2c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c991afe1bf41b7d5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5b345175bc0b5d7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4391773d407f349e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "c904dc0adc95d0cc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8475481ddc91fac7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bf0f081900ae47cb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b36d01687f85c07e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Notas/Placa Arduino.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Placa Arduino"
+            }
+          },
+          {
+            "id": "00e80a8577b29ca8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Notas/Placa Arduino.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Placa Arduino"
+            }
+          },
+          {
+            "id": "3a77c6db762d728b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b8aa89f5fa06b21d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Notas/Placa Arduino.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Placa Arduino"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "5cfd8b2e0702713f",
+  "lastOpenFiles": [
+    "Notas/Arduino.md",
+    "Notas/Imagens/Pasted image 20250706092651.png",
+    "Notas/Imagens/Pasted image 20250706092929.png",
+    "Notas/Placa Arduino.md",
+    "Notas/Imagens",
+    "Plataforma eletrônica de código aberto baseada em hardware(placa) e software(Arduino) fáceis de usar.md",
+    "www.arduino.cc.md",
+    "Arduino.cc.md",
+    "README.md",
+    "Notas"
+  ]
+}
