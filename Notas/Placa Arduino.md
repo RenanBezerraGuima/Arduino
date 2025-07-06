@@ -25,4 +25,7 @@ Localizado ao centro da placa UNO, rotulado ON (10).
 # LEDs TX e RX (11)
 TX é abreviação para transmitir e RX para receber. Indicam pinos responsáveis pela comunicação serial. No UNO estão presentes nos pinos 0 e 1 e os LEDs que indicam se a comunicação de dados está acontecendo.
 # Circuito Integrado (CI) principal (12)
-\
+O "processador" do Arduino, onde o código é executado e os dados são processados.
+# Reguladores de tensão (13)
+Controlam a tensão interna da placa Arduino para mantê-la a mesma.
+# 
