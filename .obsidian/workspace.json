@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "bd0bf46f311c2767",
+            "id": "cbd53f78036bf922",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,10 +185,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bd0bf46f311c2767",
+  "active": "cbd53f78036bf922",
   "lastOpenFiles": [
-    "Notas/Buzzer.md",
     "Notas/Componentes.md",
+    "Notas/Protoboard.md",
+    "Notas/Placa Arduino.md",
+    "Notas/Arduino.md",
+    "Notas/Buzzer.md",
+    "Notas/Imagens/Pasted image 20250707182320.png",
     "Notas/Chave Momentânea (Botão).md",
     "Notas/Imagens/Pasted image 20250707180019.png",
     "Notas/Imagens/Pasted image 20250707180002.png",
@@ -208,12 +212,8 @@
     "Notas/Imagens/Pasted image 20250706110406.png",
     "Notas/LED.md",
     "Notas/Imagens/Pasted image 20250706105842.png",
-    "Notas/Protoboard.md",
     "Notas/Imagens/Pasted image 20250706104621.png",
-    "Notas/Imagens/Pasted image 20250706104411.png",
     "Notas/Software.md",
-    "Notas/Placa Arduino.md",
-    "Notas/Arduino.md",
     "Notas/Imagens",
     "Plataforma eletrônica de código aberto baseada em hardware(placa) e software(Arduino) fáceis de usar.md",
     "www.arduino.cc.md",
