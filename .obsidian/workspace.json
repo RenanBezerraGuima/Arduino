@@ -187,6 +187,15 @@
   },
   "active": "cbd53f78036bf922",
   "lastOpenFiles": [
+    "Códigos/BuzzerMusico/BuzzerMusico.ino",
+    "Códigos/BuzzerMusico",
+    "Códigos/Buzerr/buzzerMusico.ino",
+    "Códigos/Buzerr",
+    "Códigos/Buzerr Musico/buzzerMusico.ino",
+    "Códigos/Buzerr Musico/buzzer.ino",
+    "Códigos/Buzerr Musico",
+    "Códigos/buzzer/buzzer.ino",
+    "Códigos/buzzer",
     "Notas/Componentes.md",
     "Notas/Protoboard.md",
     "Notas/Placa Arduino.md",
@@ -203,7 +212,6 @@
     "Notas/Dicas de montagem de circuitos.md",
     "Dicas ed montagem de circuitos.md",
     "Dicas de montagem de circuitos.md",
-    "Códigos",
     "Notas/Imagens/Pasted image 20250706111902.png",
     "Notas/Imagens/Pasted image 20250706111604.png",
     "Notas/Imagens/Pasted image 20250706111211.png",
@@ -214,11 +222,9 @@
     "Notas/Imagens/Pasted image 20250706105842.png",
     "Notas/Imagens/Pasted image 20250706104621.png",
     "Notas/Software.md",
-    "Notas/Imagens",
     "Plataforma eletrônica de código aberto baseada em hardware(placa) e software(Arduino) fáceis de usar.md",
     "www.arduino.cc.md",
     "Arduino.cc.md",
-    "README.md",
-    "Notas"
+    "README.md"
   ]
 }
