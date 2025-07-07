@@ -1,21 +1,32 @@
+# define INPUT_BUTTON1 9
+# define INPUT_BUTTON2 10
+# define LED_OFF 12 // LED fica desligado até que o botao seja pressionado
+# define LED_ON 13 // LED fica ligado até que o botao seja pressionado
+
 void setup() {
-  pinMode(9, INPUT); 
-  pinMode(10, INPUT);
-  pinMode(12, OUTPUT); // LED fica desligado até que o botao seja pressionado
-  pinMode(13, OUTPUT); // LED fica ligado até que o botao seja pressionado
+  pinMode(INPUT_BUTTON1, INPUT); 
+  pinMode(INPUT_BUTTON2, INPUT);
+  pinMode(LED_OFF, OUTPUT); 
+  pinMode(LED_ON, OUTPUT); 
 }
 
 void loop() {
-  if (digitalRead(9) == LOW){
-    digitalWrite(13, HIGH);
+  switch (digitalRead(INPUT_BUTTON1)) {
+    case LOW: // Botao desligado
+    digitalWrite(LED_ON, HIGH);
+    break;
+
+    case HIGH: // Botao pressionado
+    digitalWrite(LED_ON, LOW);
+    break;
   }
-  if (digitalRead(10) == LOW){
-    digitalWrite(12, LOW);
-  }
-  if (digitalRead(9) == HIGH) {
-    digitalWrite(13, LOW);
-  }
-  if (digitalRead(10) == HIGH){
-    digitalWrite(12, HIGH);
+  switch (digitalRead(INPUT_BUTTON2)) {
+    case LOW: // Botao desligado
+      digitalWrite(LED_OFF, LOW);
+      break;
+
+    case HIGH: // Botao pressionado
+      digitalWrite(LED_OFF, HIGH);
+      break;
   }
 }
