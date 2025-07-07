@@ -1,7 +1,7 @@
 # [[LED]]
 # [[Resistor]]
-# [Chave Momentânea (Botão)](https://en.wikipedia.org/wiki/Push-button)
-# Buzzer
+# [[Chave Momentânea (Botão)]]
+# [[Buzzer]]
 # Diodo Laser
 # Sensor de Luminosidade LDR
 # Potenciômetro
