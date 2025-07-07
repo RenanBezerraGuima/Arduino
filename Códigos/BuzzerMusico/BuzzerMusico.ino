@@ -1,4 +1,4 @@
-# define OUTPUT_PIN 10 // Pin conectado ao buzzer
+# define OUTPUT_PIN 11 // Pin conectado ao buzzer
 // Não precisa ser um pin digital com saída analógica
 
 void setup() {
