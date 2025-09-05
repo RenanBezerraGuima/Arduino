@@ -56,8 +56,42 @@
       Faixa de medição de temperatura: 0° a 50°C ± 2°C         
 */
 
+// https://github.com/adafruit/DHT-sensor-library
+#include <DHT.h>
+
+#define DHT_PIN 9
+
+float temperatura;
+float umidade;
+
+DHT dht(DHT_PIN, DHT11); // Define o pino e o tipo de DHT
+
 void setup() {
+  Serial.begin(9600);
+
+  dht.begin();
 }
 
 void loop() {
+  delay(2000); // Atraso do sensor
+
+  temperatura = dht.readTemperature();
+  umidade = dht.readHumidity();
+
+  if (isnan(umidade) || isnan(temperatura)) {
+    Serial.println("Falha na leiutura do sensor DHT.");
+  } else {
+    Serial.print("Temperatura: ");
+    Serial.print(temperatura);
+    Serial.print(" °C ");
+
+    Serial.print("\t");
+
+    Serial.print("Umidade: ");
+    Serial.print(umidade);
+    Serial.print(" %\t");
+
+    Serial.println();
+  }
+
 }
